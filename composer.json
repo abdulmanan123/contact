@@ -1,0 +1,19 @@
+{
+    "name": "abdulmanan123/contact",
+    "description": "This will send email to admin and save contact query in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abdul Manan",
+            "email": "abdulmanan4d@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Abdulmanan123\\Contact\\": "src/"
+        }
+    }
+}
